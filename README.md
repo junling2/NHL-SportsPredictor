@@ -1,2 +1,2 @@
 # NHL-SportsPredictor
-Script that uses ML algorithms to analyze NHL data and predicts outcomes.
+This script will attempt to predict point productions of NHL players in future seasons based on historical player statistics. Some effective Machine Learning algorithms will be applied to analyze the datasets.
